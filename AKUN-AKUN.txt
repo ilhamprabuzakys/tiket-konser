@@ -1,0 +1,7 @@
+Admin :
+gmail : admin@gmail.com
+password : password
+
+Guest
+gmail : guest@gmail.com
+password : password
